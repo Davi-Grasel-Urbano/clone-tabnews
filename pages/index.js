@@ -7,3 +7,7 @@ export default home;
 function teste() {
   console.log("Teste");
 }
+
+function teste() {
+  console.log("Identação errada");
+}
