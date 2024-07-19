@@ -5,7 +5,7 @@ function home() {
 export default home;
 
 function teste() {
-  console.log("Teste");
+  console.log("teste");
 }
 
 function teste() {
